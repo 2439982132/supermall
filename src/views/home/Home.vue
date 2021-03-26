@@ -134,7 +134,7 @@
       return{
         banners: [],
         recommends: []
-      }
+      };
     },
     created() {
       //1.请求多个数据
